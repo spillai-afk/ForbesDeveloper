@@ -22,6 +22,7 @@ wwv_flow_api.import_begin (
 );
 end;
 /
+-- varun made some changes
  
 prompt APPLICATION 911 - FG Material Movement (Barcode) Receiver
 --
