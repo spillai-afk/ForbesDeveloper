@@ -18,7 +18,7 @@ wwv_flow_api.import_begin (
 ,p_default_workspace_id=>1249501322461202
 ,p_default_application_id=>911
 ,p_default_id_offset=>1600420800195957573
-,p_default_owner=>'XXFMIT'
+,p_default_owner=>'SEG_BI'
 );
 end;
 /
